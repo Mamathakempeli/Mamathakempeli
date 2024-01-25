@@ -1,6 +1,5 @@
 ### Hi Developers 👋
-www.linkedin.com/in/mamatha-k-5a3464265
-https://www.youtube.com/@mamathak6041
+
 [![YouTube Badge](https://img.shields.io/badge/YouTube-mamatha-red)](https://www.youtube.com/@mamathak6041)
 [![Linkedin Badge](https://img.shields.io/badge/-mamatha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mamatha-k-5a3464265/)](https://www.linkedin.com/in/mamatha-k-5a3464265/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
