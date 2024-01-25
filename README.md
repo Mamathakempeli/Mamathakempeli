@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
 I'm
-Started learning Full stack development at GUVI
-Before this I have 2 years of eperience in Embedded systems, then I joined in GUVI for career change.
+Started learning Full stack development at GUVI.
+Before that I have 2 years of eperience in Embedded systems, then I joined in GUVI for career change.
 I feel lucky enough to join in GUVI to learn full stack development alongside some talented teams with the high profile teaching and practicing websites.
 Along with this I have wide range f skills in C,C++,Multimedia domain,Gstreamers,Data structures,Audio, Video
 
